@@ -11,7 +11,7 @@ super + a
     pavucontrol
 
 Print
-    bash ~/activess.new.sh
+    bash ~/scripts/activess.new.sh
 
 control + ñ
     copyq
