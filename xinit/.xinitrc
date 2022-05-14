@@ -1,1 +1,1 @@
-/home/jellu/.xinitrc
+[ -f ~/.Xmodmap ] && xmodmap ~/.Xmodmap

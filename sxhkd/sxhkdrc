@@ -1,0 +1,17 @@
+super + d
+    bash ~/.config/rofi/launchers/launcher.sh
+
+super + Return
+    kitty
+
+super + w
+    firefox
+
+super + a
+    pavucontrol
+
+Print
+    bash ~/activess.new.sh
+
+control + ñ
+    copyq

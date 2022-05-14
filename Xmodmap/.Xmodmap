@@ -1,1 +1,5 @@
-/home/jellu/.Xmodmap
+! Switch CapsLock and Escape
+keycode 9 = Caps_Lock
+keycode 66 = Escape
+clear lock
+add lock = Caps_Lock
