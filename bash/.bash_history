@@ -1,500 +1,500 @@
-v U2.md
-sagemath
-sage
-sxhkd &
-b
-bluetoothctl connect 11:E5:56:4D:DF:63
-v autostart.sh
-chmod +x autostart.sh 
-./autostart.sh 
-v .config/i3/config
-v autostart.sh 
-v .config/sxhkd/sxhkdrc 
-v .config/i3/config
-xmodmap ~/.Xmodmap
-v .config/i3/config
-v .config/i3/config 
-v autostart.sh
-bash autostart.sh 
-v autostart.sh
-v .Xmodmap 
-v .config/i3/config 
-xmodmap ~/.Xmodmap
-v .config/i3/config 
-v autostart.sh
-xmodmap ~/.Xmodmap &
-bluetoothctl connect 11:E5:56:4D:DF:63
-bluetoothctl connect 64:46:11:10:38:37
-bluetoothctl connect 11:E5:56:4D:DF:63
-v .config/sxhkd/sxhkdrc 
-boxes -l | les
-boxes -l | less
-v .config/sxhkd/sxhkdrc 
-pidof sxhkd
-kill 2825
-sxhkd &
-v .config/sxhkd/sxhkdrc 
-v .config/i3/config 
-firefox
-v .config/i3/config 
-pulseaudio
-v .config/i3/config 
-locate *audio*desktop
-v /etc/xdg/autostart/pulseaudio.desktop 
-start-pulseaudio-x11
-v /usr/share/xfce4/panel/plugins/pulseaudio.desktop 
-xgce4-pulseaudio-pnael-plugin
-xgce4-pulseaudio-panel-plugin
- 
-xfce4-pulseaudio-plugin
-v /usr/share/xfce4/panel/plugins/pulseaudio.desktop 
-pavucontrol
-v .config/sxhkd/sxhkdrc 
-bluetoothctl connect 64:46:11:10:38:37
-man tabbed
-tabbed
-tabbed disowm
-tabbed
-tabbed kitty
-cd documents/segundo/electrónica/apuntes/
-v U2.md
-ap -h
-apt -h
-apt search tabbed
-sudo apt reinstall suckless-tools
-v .config/sxhkd/sxhkdrc 
-whatis tabbed
-whereto tabbed
-where tabbed
-xmodmap 
-xev | awk -F'[ )]+' '/^KeyPress/ { a[NR+2] } NR in a { printf "%-3s %s\n", $5, $8 }'
-xmodmap > i3modmap.txt
-cat i3modmap.txt 
-apt-get source suckless-tools
-v .config/sxhkd/sxhkdrc 
-xmodmap 
-v .config/sxhkd/sxhkdrc 
-pidof sxhkd
-kill 2831
-sxhkd &
-bluetoothctl connect 64:46:11:10:38:37
-find tabbed
-find i3
-locate tabbed
-cd /usr/bin/tabbed
-cd /usr/bin
-ls
-ls t*
-ls tab*
-ls -l tab*
-v tabbed
-locate tabbed
-cd /var/lib/dpkg/alternatives/
-ls
-v tabbed
-v /usr/bin/tabbed
-locate tabbed
-v /usr/share/man/man1/tabbed.1.gz 
+v memory.sh
+./memory.sh 
+v memory.sh
+./memory.sh 
+v memory.sh
+./memory.sh 
+v memory.sh
+./memory.sh 
+echo 0.42 * 100 | bc -lq
+echo "0.42 * 100" | bc -lq
+echo "sacle=0; 0.42 * 100" | bc -lq
+echo "scale=0; 0.42 * 100" | bc -lq
+echo "scale=5; 0.42 * 100" | bc -lq
+printf %.2 "0.42 * 100" | bc -lq
+printf %.2 $(echo "0.42 * 100" | bc -lq)
+printf %.2f $(echo "0.42 * 100" | bc -lq)
+printf %.1f $(echo "0.42 * 100" | bc -lq)
+c
+echo "0.42 * 100" | bc -lq
+echo "0.42 * 100 / 1" | bc -lq
+echo "0.42 * 100 / 1" | bc -q
+echo "scale=0; 0.42 * 100 / 1" | bc -q
+echo "scale=0; 0.42 * 100 / 1" | bc -lq
+v memory.sh
+./memory.sh 
+v memory.sh
+./memory.sh 
+v memory.sh
+./memory.sh 
+v memory.sh
+./memory.sh 
+sudo pm-suspend
+cd videos/ && ranger
 cd
-whatis tabbed
-man tabbed
-tabbed
-z
-locate tabbed
-v [200~/usr/bin/tabbed.default~
-v /usr/bin/tabbed.default
-z
-brightnessctl set 20000
-sudo brightnessctl set 50%
-sudo brightnessctl set 25%
-sudo brightnessctl set 10%
-sudo brightnessctl set 50%
-bluetoothctl connect 64:46:11:10:38:37
-z
-bluetoothctl connect 64:46:11:10:38:37
-pavucontrol
-setxkbmap latam
-setxbdmap latam
-cd .config
-cd
-cd .config
-cd autostart/
+cd videos/ && ranger
+v .vimrc
+nvim
+v
+v .vimrc
 ls
-cd ..
+cd .vim
 ls
-cd
-cls auto}
+cd pack
 ls
-v autostart.sh 
-cd ~/.config/openbox
-cd .config/openbox
-cd .config
+cd colorschemes/
 ls
-ls o*
-mkdir openbox
-cd openbox/
-touch autostart
-cp ~/autostart.sh .
+cd start/
 ls
-mv autostart.sh autostart
+rm -r CSApprox/
+rm -r vim-colorschemes/
 ls
-chmod-x autostart 
-ls -l
-rm autostart 
-touch autostart
-v autostart 
-xmodmap ~/.Xmodmap &
-v autostart.sh 
-cd .config/openbox/
+cd vim-colorschemes/
 ls
-touch rc.xml
-man curl
-apt serach lyx
-sudo apt serach lyx
-sudo apt search lyx
-sudo apt search lightdm
-sudo apt search ly
-sudo apt search ly | grep ly
-bluetoothctl connect 64:46:11:10:38:37
-xmodmap ~/.Xmodmap &
-h
-v autostart.sh 
-v .config/openbox/autostart 
-cd downloads/packages/
-ls
-thunar .
-[200~which gcc git make pkg-config patch~
-which gcc git make pkg-config patch
-cd downloads/packages/
-ls
-cd tabbed-0.6/
-ls
-cat config.mk
-v Makefile 
-v config.mk
-make
-make PREFIX=$HOME/.local install
-sudo make install
-man tabbed
-z
-v .config/i3/config 
-cd
-v .config/i3/config 
-which i3
-which i3 | cd
-cd /usr/local/bin/i3
-cd /usr/local/bin
-v i3
-cd /etc/i3
-ls
-v config
-v config.keycodes 
-v config
-z
-setxbdmap latam
-
-setxbdmap 
-
-setxkdmap latam
-setxkbmap latam
-z
-v .config/i3/config 
-v autostart.sh 
-z
-setxkbmap latam
-v autostart.sh 
-bluetoothctl connect 11:E5:56:4D:DF:63
-bluetoothctl connect 64:46:11:10:38:37
-cd downloads/packages/
-cd tabbed-0.6/
-ls
-v config.def.h 
-v tabbed.l
-v tabbed.1
-make
-make install
-man tabbed
-sudo make install
-cd ..
-ls
-cd tabbed-0.6/
-v config.def.h 
-make
-make unistall
-make uninstall
-sudo make install
-sudo make uninstall
-tabbed
-v config.def.h 
-v tabbed.1
-make
-cat config.mk
-cat Makefile
-bluetoothctl connect 64:46:11:10:38:37
-sudo make clean install
-cd ..
-git clone https://github.com/ErickChacon/tabbed
-cd tabbed
-ls
-v config.mk
-v config.def.h
-sudo make clean install
-z
-man tabbed
-sudo make uninstall
-v config.def.h
-v tabbed.1
-sudo make uninstall
-sudo make clean install
-man tabbed
-tabbed
-bluetoothctl connect 64:46:11:10:38:37
-man make
-z
-bluetoothctl connect 64:46:11:10:38:37
-bluez
-bluetoothctl connect 64:46:11:10:38:37
-bluetoothctl
-echo "deb http://download.opensuse.org/repositories/home:/strycore/Debian_11/ ./" | sudo tee /etc/apt/sources.list.d/lutris.list
-wget -q https://download.opensuse.org/repositories/home:/strycore/Debian_11/Release.key -O- | sudo tee /etc/apt/trusted.gpg.d/lutris.asc -
-sudo pat update
-sudo apt update
-sudo apt upgrade
-sudo apt install lutris
-curl
-https://download.opensuse.org/repositories/home:/strycore/Debian_11/Release.key -O- | sudo tee /etc/apt/trusted.gpg.d/lutris.asc -
-wine games/Fate\ stay\ night\ \[Réalta\ Nua\]\ Ultimate\ Edition/Fate.exe 
-cd games
-touch fate-installer.yml
-v fate-installer.yml 
-ls
-lutris -i fate-stay-night-realta-nua-ultimate-edition.yml
-mv fate-installer.yml fate-stay-night-realta-nua-ultimate-edition.yml
-lutris -i fate-stay-night-realta-nua-ultimate-edition.yml
-ulimit -Hn
-sudo vim /etc/systemd/system.conf 
-cd /etc/systemd/
-cp system.conf system.conf.old
-sudo cp system.conf system.conf.old
-sudo vim system.conf 
-sudo vim user.conf 
-wine games/Fate\ stay\ night\ \[Réalta\ Nua\]\ Ultimate\ Edition/Fate.exe 
-ulimit -Hn
-sudo apt remove lutris
-sudo apt install lutris
-lutris
-wine FateSaber.exe 
-cd /etc/systemd/
-ms system.conf.old system.conf
-sudo mv system.conf.old system.conf
-sudo vim user.conf 
-ulimit -Hn
-bluetoothctl connect 64:46:11:10:38:37
-ulimit -Hn
-bluetoothctl connect 64:46:11:10:38:37
-bluetoothctl
-brightnessctl set %0
-brightnessctl set %20
-brightnessctl set 20%
-sudo brightnessctl set 20%
-sudo brightnessctl set 5%
-bluetoothctl connect 64:46:11:10:38:37
-blueman
-bluez
-bluemon
-sudo brightnessctl set 50%
-bluetoothctl
-man sxiv
-bluetoothctl connect 64:46:11:10:38:37
-sudo apt search ly
-sudo apt search ly | grep ly
-man grep
-sudo apt search ly | grep -w ly
-sudo apt search python3.ly
-cd repos/
-git clone --recurse-submodules https://github.com/nullgemm/ly.git
-cd ly/
-make
-sudo make run
-sudo make install
-cd
-sudo systemctl enable ly.service
-sudo systemctl disable lightdm.service
-sudo systemctl enable ly.service
-ly
-sudo systemctl enable ly.service
-xstart
-startx
-reboot
-sudo reboot
-startx
-sudo systemctl disable ly.service
-sudo systemctl enable lightdm.service
-startx
-sudo reboot
-bluetoothctl connect 64:46:11:10:38:37
-cd .conf
-cd .config/
-ls
-cd i3
-ls
-cp config ~/dotfiles/i3
-cd ..
-cd kitty/
-ls
-mv * ~/dotfiles/kitty
-cd ..
-cd openbox/
-ls
-mv * ~/dotfiles/openbox
-cd ../i3status/
-mv * ~/dotfiles/i3status
-ls
-cd ../mpv
-ls
-mv mpv.conf ~/dotfiles/i3status
-mv mpv.conf ~/dotfiles/mpv
-cp ~/dotfiles/i3status/mpv.conf .
-cp mpv.conf ~/dotfiles/mpv
-ls
-cd ../kitty
-cp ~/dotfiles/kitty/* .
-ls
-../i3
-cd ../i3
-cp ~/dotfiles/i3/* .
-ls
-cd ../rofi
-cp * ~/dotfiles/rofi/
-cp -r * ~/dotfiles/rofi/
-ls
-cd ../sxhkd/
-ls
-cp * ~/dotfiles/sxhkd/
-ls
-cd
-cp .bashrc ~/dotfiles/bash
-cp .vimrc ~/dotfiles/bash
-cp .vimrc ~/dotfiles/vim
-cp .Xmodmap  ~/dotfiles/xmodmap/
-ls -la .bash
-ls -la bash
-ls -la bash*
-ls -la .bash*
-cp .bashrc ~/dotfiles/bash/
-sudo cp .bashrc ~/dotfiles/bash/
-cp .bash* ~/dotfiles/bash/
-mv .bash* ~/dotfiles/bash/
-ls -la .bash*
-ls -la .xinit*
-mv .xinit* ~/dotfiles/xinit/
-ls -la .xinit*
-ls
-cp activess.new.sh autostart.sh selectss.sh ~/dotfiles/scripts/
-mkdir bash vim rofi i3 sxhkd firefox-themes mpv xinit xmodmap scripts zathura i3status kit openbox
-xmodmap ~/.Xmodmap
-ls
-cd i3
-ls
-rmdir kit
-mv kit kitty
-cd ..
-mv kit kitty
-ls
-cd kitty/
-ls
-cd ..
-ls
-cd openbox/
-ls
-cd ../xmodmap/
-cd ../i3status/
-cd ../mpv
-ls
-cd ..
-ls
-cd rofi
-ls
-cd bash
-cd ../bash
-ls
-cd ../vim
-ls
-cd ../bash
-ls
-cd ../xm
-cd ../xmodmap/
-ls
-cd ../sxhkd/
-ls
-cd ../bash
-ls
-cd
-cd ~/dotfiles/bash
-ls
-ls -la
-rm .vimrc
-cp .bash* ~
-cd ..
-ls
-cd ../vim
-cd vim
 ls -a
-cd ..}
+rm -r *
+rm *
 cd ..
-cd xinit/
-cp .xinit* ~
-cd ..
-cd scripts/
-cp ~/lastdir .
+c
 ls
-mkdir java-test
-cd ..
+rmdir vim-colorschemes/
+rm -r vim-colorschemes/
+cd ../opt/
+ls
+cd ../..
+ls
+cd others/
+cd start/
+tree
+cd ../..
+ls
+cd syntax/
+tree
+v hehe
+cd
+ls -l
+ls -l .vim*
+cd .vim
+ls
+mv * /home/jellu/.dotfiles/vim
+ls
+cd /home/jellu/.dotfiles/vim
+ls
+ls -l
+ls -la
+rm vimrc~ .vimrc.swp 
+rm .vimrc~ .vimrc.swp 
+ls -la
+git add *
+git reset
+cd pack/others/start/Colorizer/
+ls -ls
+ls -la
+rm -r .git
+cd ../nerdtree/
+rm -r .git
+cd ../../../..
+git add
+git add *
+cd pack/colorschemes/start/clrzr/
+rm -r .git
+cd ../../../..
+git reset
+git add *
+git status
+git commit -m "Improved config"
+git config
+git push
+cd
+ls -ls .vim*
+rm -r .vimrc*
+v
+ln -s .dotfiles/vim/.vimrc ~/.vimrc
+v
+cd .vim
+ls
+sudo pm-suspend
+cd vim-colorschemes/
+cd videos/ && ranger
+bluetoothctl connect 64:46:11:10:38:37
+sudo pm-suspend
+w
+cd .config/kitty
+ls
+v kitty.conf 
+cd .config/kitty
+free
+v kitty.conf 
+free
+cd .config/kitty
+v kitty.conf 
+w
+cat /proc/meminfo 
+cat /proc/cpuinfo | less
+cd .config/polybar/forest
+ls
+cd modules
+ls
+v cpu.ini 
+v .vimrc
+cd .vim/
+ls
+cd ~/.dotfiles/vim/
+ls
+cd pack
+ls
+cd colorschemes/
+ls
+cd start/
+ls
+git clone https://github.com/morhetz/gruvbox.git
 ls
 cd
+v .vimrc
+cd ~/.dotfiles/vim/
 ls
-rm 'relpath + filename' 
-cd java-test/
+ln -s * ~/.vim
+cd ~/.vim
 ls
-rm test-1 
-ls -l
-bluetoothctl connect 11:E5:56:4D:DF:63
-cd java-test/
-ls
-cat test-1.txt 
-v test-1.txt 
-cat test-1.txt 
-cd java-test/
-cat test-1.txt 
-rm test-1.txt 
-cat test-1.txt 
-ls ~/dotfiles/
-ls ~/.dotfiles/
-ls
-ls ~/.dotfiles/
-ls -la .dotfiles
-ls -la .*
+ls -a
 ls -la
-ls ~/dotfiles/}
-ls ~/dotfiles/
-ls ~/.dotfiles/
-ls -la
-cd .dotfiles/
-ls -la
-cd rofi
-ls -la
-cd ../vim
+ls ~/.dotfiles/vim
+rm -r *
+ln -s ~/.dotfiles/vim/ ~/.vim
 ls
-cd ../bash
+cd vim
+ls
+cd ..
+rm -r *
+ls
+ln -s ~/.dotfiles/vim/ .
+ls
+rm -r *
+ln -s ~/.dotfiles/vim/* .
 ls
 ls -la
-cd ../vim
-ls -la
-../xinit/
-../xinit
-cd ../xinit
-ls -la
-cd ../Xmodmap/
-ls -la
-v .Xmodmap 
-v .
+cd
+v .vimrc
+v ~/.config/kitty/kitty.conf 
+v .vimrc
+w
+nproc
+cat /proc/loadavg | cut -c 1-4 | echo "scale=2; ($(</dev/stdin)/`nproc`)*100" | bc -l
+cat /proc/loadavg
+cat /proc/loadavg | cut -c 1-4 | echo "scale=2; ($(</dev/stdin)/`nproc`)*100" | bc -l
+cat /proc/loadavg | cut -c 1-4
+cat /proc/loadavg
+cat /proc/loadavg | cut -c 1-4
+v ~/.config/kitty/kitty.conf 
+cat /proc/loadavg | cut -c 1-4 | echo "scale=2; ($(</dev/stdin)/`nproc`)*100" | bc -l
+cat /proc/loadavg | cut -c 1-4
+$(</dev/stdin)
+cat /proc/loadavg
+cat /proc/loadavg | cut -c 1-4
+nproc
+cd scripts
+v cpu.sh
+
+v cpu.sh
+chmod +x cpu.sh 
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+./cpu.sh 
+v cpu.sh
+c
+v cpu.sh
+./cpu.sh 
+v ram.c
+ls
+ls -a
+v cpu.sh
+cd videos/ && ranger
+v
+sudo apt install python3-pip
+pip install --user wpm
+wpm
+sudo pip install --user wpm
+wpm
+sudo pip install wpm
+wpm
+pip
+sudo pip install wpm --user
+wpm
+cd /root/.local/lib/python3.9
+sudo cd /root/.local/lib/python3.9
+sudo wpm
+pip show wpm
+pip install setuptools
+cd /home/jellu/.local/lib/python3.9/site-packages/
+ls
+cd wpm
+ls
+wpm
+sudo pip unistall wpm
+sudo pip uninstall wpm
+python --v
+python3
+cd
+sudo pip install wpm
+wpm
+setxkbmap -print -verbose 10
+locatectl
+localectl
+XkbLayout
+setxkbmap -h
+setxkbmap --h
+setxkbmap
+man setxkbmap
+setxkbmap --layout latam, es(dvorak)
+setxkbmap --layout latam
+man setxkbmap
+setxkbmap -layout latam
+setxkbmap -layout dvorak
+setxkbmap -layout latam
+sudo cd /etc/X11/xkb/
+cd /etc/X11/
+ls
+cd xkb/
+ls
+localectl
+localectl list-x11-keymap-layouts 
+localectl list-x11-keymap-layouts | less
+localectl list-x11-keymap-variants | less
+cd /usr/share/X11/xkb/rules/
+ls
+v base.lst 
+setxkbmap -variant dvorak
+setxkbmap
+setxkbmap -variany qwerty
+setxkbmap -variant qwerty
+v base.lst 
+setxkbmap -layout latam
+cd ..
+cd symbols/
+ls
+v latam
+cd ..
+ls
+cd types/
+ls
+cd ..
+cd symbols/
+v latam
+cd scripts
+cp cpu.sh memory.sh
+v memory.sh 
+chmod +x memory.sh 
+./memory.sh 
+v memory.sh 
+./memory.sh 
+v memory.sh 
+./memory.sh 
+wmcontrol
+wmctrl
+man wmcntrl
+man wmctrl
+wmctrl -d
+wmctrl -d | awk '$1 == /*/ {print $0}'
+wmctrl -d | awk '$2 == /*/ {print $0}'
+wmctrl -d | awk '$2 ~ /*/ {print $0}'
+hello=omg
+echo $hello
+awk -v var=$hello '{print $0}'
+awk -v var=$hello '$0 ~ var {print $0}'
+awk -v var=$hello '~{print hello}'
+awk -v var=$hello '{print hello}'
+awk -v var="$hello" '{print hello}'
+echo | awk -v var=$hello '$0 ~ var {print $0}'
+echo | awk -v var='ara' '$0 ~ var {print $0}'
+echo | awk -v var='ara' '$0 ~ var {print var}'
+echo | awk -v var='ara' '{print var}'
+awk -v var='ara' '{print var}'
+echo | awk -v var='ara' '{print var}'
+echo | awk -v var='$hello' '{print var}'
+echo $hello
+echo | awk -v var="$hello" '{print var}'
+bspc destop -f 0
+bspc desktop -f 0
+bspc desktop -f '^0'
+bspc desktop -f '0'
+bspc desktop -f 0
+bspc desktop -f ^0
+bspc desktop -f 10
+bspc desktop -f 1
+bspc desktop -f ^1
+bspc desktop -f ^2
+wmctrl -d
+cd scripts
+./desktop.sh 
+cat /proc/meminfo | awk 'NR == 3 {print $2" " $3 }'
+cat /proc/meminfo | less
+cd scripts
+v cpu.sh 
+cp cpu.sh desktop.sh
+v desktop.sh 
+chmod +x desktop.sh 
+./desktop.sh 
+chmod +x desktop.sh 
+v desktop.sh 
+./desktop.sh 
+v desktop.sh 
+./desktop.sh 
+cd
+v .config/bspwm/bspwmrc 
+v desktop.sh 
+cd scripts
+v desktop.sh 
+./desktop.sh 
+v desktop.sh 
+./desktop.sh 
+v desktop.sh 
+./desktop.sh 
+cd scripts
+v cpu.sh 
+v .config/sxhkd/bsphkd 
+cd videos/ && ranger
+man rofi-theme
+cd scripts
+v autostart.sh 
+cd ~/.config/sxhkd/
+v sxhkdrc 
+cd ../polybar/color
+cd ../polybar/
+ls
+v launch.sh 
+cd forest/
+ls
+v config.ini 
+cd ~/.config/rofi/
+v colors.rasi 
+v colorschemes/bluedark.rasi 
+cd colorschemes/
+mv bluedark.rasi basic.rasic
+cd ..
+mv colors.rasi color.rasi
+v color.rasi 
+v config.rasi 
+cd colorschemes/
+ls
+v basic.rasic 
+cd ..
+v config.rasi 
+v color.rasi 
+cd colorschemes/
+ls
+cd ~/.config/rofi/launchers/
+ls
+v launcher.sh
+cd styles/
+ls
+v jellu.rasi 
+cd ..
+v launcher.sh
+v jellu.rasi 
+man rofi
+cd styles/
+v colors.rasi 
+cd ../..
+ls
+v config.rasi
+cd launchers/
+v launcher.sh
+v jellu.rasi
+cd styles/
+ls
+mv * ../../
+ls
+cd ../../
+ls
+mkdir colors
+mv jellu.rasi colors/
+ls
+rm config.rasi~~ 
+cd colors/
+ls
+v jellu.rasi 
+c
+cd ..
+v co
+v colors
+v colors.rasi 
+mv colors/ colorschemes/
+ls
+cd colorschemes/
+mv jellu.rasi bluedark.rasi
+cd ..
+v colors.rasi 
+ls
+v config.rasi 
+cd launchers/
+ls
+rm jellu.rasi~ launcher.sh~
+v jellu.rasi 
+cd .config/sxhkd/
+v sxhkdrc 
+cd .config/sxhkd/
+v sxhkdrc 
+cd /home/jellu/.config/rofi/colorschemes/
+cd
+cd /home/jellu/.config/rofi/colorschemes/
+ls
+mv basic.rasic basic.rasi
+cd ..
+ls
+cd launchers/
+ls
+v jellu.rasi 
+mv jellu.rasi launcher.sh 
+ls
+ls styles/
+ls
+cd styles/
+ls
+cd ..
+rmdir styles/
+ls -a styles/
+rm -d styles/
+rm -dr styles/
+ls
+v launcher.sh 
+mv launcher.sh vertical.rasi
+ls
+cd ..
+
+cd launchers/
+ls
+v vertical.rasi 
+mkdir styles
+v launch.sh
+ls
+mv vertical.rasi styles/
+v launch.sh
+cd styles/
+ls
+v box.rasi
+cd
+cd .config/rofi/launchers
+ls
+v launch.sh 
+cd .config/sxhkd/
+v sxhkdrc 

@@ -1,11 +1,20 @@
-super + d
-    bash ~/.config/rofi/launchers/launcher.sh
+super + space
+     bash ~/.config/rofi/launchers/launch.sh
+
+ctrl + Tab
+     kitty
 
 super + Return
     kitty
 
+# super + Escape
+#     pkill -USR1 -x sxhkd
+
 super + w
     firefox
+
+super + minus; {g,c}
+   {/usr/bin/google-chrome-stable,chromium}
 
 super + a
     pavucontrol
@@ -15,3 +24,12 @@ Print
 
 control + ñ
     copyq
+
+XF86Audio{LowerVolume,RaiseVolume}
+    pactl set-sink-volume @DEFAULT_SINK@ {-5%,+5%}
+
+XF86Audio{Mute}
+    pactl set-sink-mute @DEFAULT_SINK@ toggle
+
+XF86MonBrightness{Down,Up}
+    bash ~/scripts/backlight.sh {-dec 5,-inc 5}

@@ -1,7 +1,7 @@
 /** Basic config file **/
 
 configuration {
-  show-icons:         true;
-  icon-theme:         "Papirus";
   font: "Iosevka Nerd Font 15"; 
 }
+
+@import "color.rasi"
