@@ -1,8 +1,23 @@
-super + d
+
+##########
+# Basics #
+##########
+
+super + space
     bash ~/.config/rofi/launchers/launcher.sh
 
 super + Return
     kitty
+
+control + Tab
+    kitty
+
+#######################
+# Launch Applications #
+#######################
+
+super + shift ; {g,c}
+    {usr/bin/google-chrome-stable --incognito, chromium}
 
 super + w
     firefox
@@ -10,8 +25,21 @@ super + w
 super + a
     pavucontrol
 
-Print
-    bash ~/scripts/activess.new.sh
-
 control + ñ
     copyq
+
+###########
+# Control #
+###########
+
+XF86AudioMute
+    pactl set-sink-mute @DEFAULT_SINK@ toggle
+
+XF86Audio{Lower,Raise}Volume
+    pactl set-sink-volume @DEFAULT_SINK@ {-,+}5%
+
+XF86MonBrightness{Down, Up}
+    bash ~/scripts/backlight.sh -{dec,inc} 5
+
+Print
+    bash ~/scripts/activess.new.sh
