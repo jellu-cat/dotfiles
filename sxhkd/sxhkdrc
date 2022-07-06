@@ -16,7 +16,7 @@ control + Tab
 # Launch Applications #
 #######################
 
-super + shift ; {g,c}
+super + shift + {g,c}
     {usr/bin/google-chrome-stable --incognito, chromium}
 
 super + w
@@ -38,7 +38,7 @@ XF86AudioMute
 XF86Audio{Lower,Raise}Volume
     pactl set-sink-volume @DEFAULT_SINK@ {-,+}5%
 
-XF86MonBrightness{Down, Up}
+XF86MonBrightness{Down,Up}
     bash ~/scripts/backlight.sh -{dec,inc} 5
 
 Print
