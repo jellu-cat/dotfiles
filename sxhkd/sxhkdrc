@@ -1,10 +1,9 @@
-
 ##########
 # Basics #
 ##########
 
 super + space
-    bash ~/.config/rofi/launchers/launcher.sh
+    bash ~/.config/rofi/launchers/launch.sh
 
 super + Return
     kitty
