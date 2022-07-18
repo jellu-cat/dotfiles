@@ -38,7 +38,7 @@ XF86Audio{Lower,Raise}Volume
     pactl set-sink-volume @DEFAULT_SINK@ {-,+}5%
 
 XF86MonBrightness{Down,Up}
-    bash ~/scripts/backlight.sh -{dec,inc} 5
+    bash ~/repos/scripts/backlight.sh -{dec,inc} 5
 
 Print
-    bash ~/scripts/activess.new.sh
+    bash ~/repos/scripts/activess.new.sh
