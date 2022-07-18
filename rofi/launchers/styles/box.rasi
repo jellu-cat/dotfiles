@@ -1,3 +1,5 @@
+@import "../../color.rasi"
+
 configuration {
   font: "Iosevka Nerd Font 15"; 
 
@@ -43,7 +45,7 @@ element-icon {
 
 mainbox {
   background-color: @bg;
-  children: [inputbar, listview, mode-switcher];
+  children: [inputbar, listview ];
 }
 
 // Lista de aplicaciones
@@ -72,18 +74,4 @@ prompt {
   enabled: true;
   padding: 12px;
   text-color: @fg;
-}
-
-// Botones del mode-switch
-
-button {
-  background-color: @fg-alt;
-  margin: 5px;
-  padding: 5px;
-  text-color: @bg;
-  border: 0px;
-}
-
-button selected{
-  text-color: @ac;
 }
