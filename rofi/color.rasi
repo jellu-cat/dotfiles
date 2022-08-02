@@ -2,4 +2,4 @@
  * Change the colorscheme for every menu simply by editing this file...
  */
 
-@import "colorschemes/basic.rasi"
+@import "colorschemes/light/basic.rasi"
