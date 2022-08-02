@@ -115,6 +115,7 @@ fi
 # Add sbin directories to PATH.  This is useful on systems that have sudo
 echo $PATH | grep -Eq "(^|:)/sbin(:|)"     || PATH=$PATH:/sbin
 echo $PATH | grep -Eq "(^|:)/usr/sbin(:|)" || PATH=$PATH:/usr/sbin
+export PATH="/home/jellu/scripts/blocks:$PATH"
 
 # If this is an xterm set the title to user@host:dir
 case "$TERM" in
@@ -124,3 +125,5 @@ xterm*|rxvt*)
 *)
     ;;
 esac
+
+eval "$(starship init bash)"
