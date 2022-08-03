@@ -37,8 +37,11 @@ XF86AudioMute
 XF86Audio{Lower,Raise}Volume
     pactl set-sink-volume @DEFAULT_SINK@ {-,+}5%
 
+# How you manage the brightness depends on your system, a
+# manual change requires permissions (udev), but it's tedious
 XF86MonBrightness{Down,Up}
-    bash ~/repos/scripts/backlight.sh -{dec,inc} 5
+    light -{U,A} 5
+    # bash ~/repos/scripts/backlight.sh -{dec,inc} 5
 
 Print
     bash ~/repos/scripts/activess.new.sh
