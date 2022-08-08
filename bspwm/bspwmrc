@@ -16,4 +16,4 @@ bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
 echo -e "${PATH} - ${TERM}" < ~/hahahahahah.txt
-bash ~/scripts/autostart
+bash autostart
