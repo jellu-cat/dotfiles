@@ -116,6 +116,7 @@ fi
 echo $PATH | grep -Eq "(^|:)/sbin(:|)"     || PATH=$PATH:/sbin
 echo $PATH | grep -Eq "(^|:)/usr/sbin(:|)" || PATH=$PATH:/usr/sbin
 export PATH="/home/jellu/scripts/blocks:$PATH"
+export PATH="~/.local/bin:$PATH"
 
 # If this is an xterm set the title to user@host:dir
 case "$TERM" in
