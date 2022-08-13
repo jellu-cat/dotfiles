@@ -1,7 +1,7 @@
 /* colors */
 
 * {
-  bg:      #F2F2E999;
+  bg:      #F2F2E9;
   bg-alt:  #A9A9A3;
   fg:      #151515;
   fg-alt:  #232323;
