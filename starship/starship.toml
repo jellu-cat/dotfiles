@@ -2,7 +2,10 @@
 # "$schema" = 'https://starship.rs/config-schema.json'
 
 # Inserts a blank line between shell prompts
-add_newline = true
+add_newline = false
+
+# Time to run a command
+command_timeout = 500
 
 # Disable the package module, hiding it from the prompt completely
 [package]
