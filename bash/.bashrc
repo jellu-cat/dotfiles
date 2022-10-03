@@ -116,6 +116,8 @@ fi
 echo $PATH | grep -Eq "(^|:)/sbin(:|)"     || PATH=$PATH:/sbin
 echo $PATH | grep -Eq "(^|:)/usr/sbin(:|)" || PATH=$PATH:/usr/sbin
 
+export PATH="/home/jellu/.cargo/bin:$PATH"
+
 # If this is an xterm set the title to user@host:dir
 case "$TERM" in
 xterm*|rxvt*)
@@ -125,7 +127,7 @@ xterm*|rxvt*)
     ;;
 esac
 
-eval "$(starship init bash)"
+# eval "$(starship init bash)"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
