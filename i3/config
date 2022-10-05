@@ -13,6 +13,11 @@ bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
+## terminal
+
+bindsym $mod+Enter exec kitty
+bindsym $mod+Tab exec kitty
+
 # also -> exec dm-tool look
 
 ##################
@@ -185,9 +190,9 @@ exec --no-startup-id nm-applet
 # Gaps #
 ########
 
-gaps outer 10
-gaps inner 5
-smart_gaps on
+# gaps outer 10
+# gaps inner 5
+# smart_gaps on
 
 #########
 # i3bar #
@@ -196,7 +201,6 @@ smart_gaps on
 bar {
         position top
         status_command i3status
-        height 20
         colors {
             background #222222
         }
