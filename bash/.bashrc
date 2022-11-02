@@ -93,7 +93,7 @@ echo $PATH | grep -Eq "(^|:)/usr/sbin(:|)" || PATH=$PATH:/usr/sbin
 
 export PATH="$HOME/.cargo/bin:$PATH"
 
-# eval "$(starship init bash)"
+eval "$(starship init bash)"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
