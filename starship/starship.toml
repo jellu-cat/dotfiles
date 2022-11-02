@@ -5,11 +5,11 @@
 add_newline = false
 
 # Time to run a command
-command_timeout = 500
+# command_timeout = 500
 
 # Disable the package module, hiding it from the prompt completely
 [package]
-disabled = true
+# disabled = true
 
 [character]
 success_symbol = "[\\$](bold green)"
