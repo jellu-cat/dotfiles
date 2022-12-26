@@ -12,9 +12,10 @@ sudo dnf install firefox \
     htop \
     pandoc \
     zathura \
-    zathura-pdf.mupdf \
+    zathura-pdf-mupdf \
+    zathura-cb \
     zathura-bash-completion \
-    zathura-plugins-all
+    zathura-plugins-all \
     chromium \
     qutebrowser \
     copyq \
@@ -46,3 +47,9 @@ sudo dnf install firefox \
     boxes \
     neofetch \
     cmatrix \
+    ranger \
+    emacs \
+    mediainfo \
+    imv \
+    cargo \
+    ncurses-devel \
