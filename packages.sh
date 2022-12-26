@@ -53,3 +53,4 @@ sudo dnf install firefox \
     imv \
     cargo \
     ncurses-devel \
+    figlet \
