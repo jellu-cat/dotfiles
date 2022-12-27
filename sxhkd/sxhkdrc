@@ -24,8 +24,8 @@ super + w
 super + a
     pavucontrol
 
-control + ñ
-    copyq
+control + ntilde
+    copyq show
 
 ###########
 # Control #
