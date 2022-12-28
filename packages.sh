@@ -54,3 +54,4 @@ sudo dnf install firefox \
     cargo \
     ncurses-devel \
     figlet \
+    qt5-qtbase-devel qt5-qtbase-static qt5-qt3d-devel harfbuzz-devel \ # sioyek
