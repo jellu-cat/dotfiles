@@ -15,14 +15,17 @@ control + Tab
 # Launch Applications #
 #######################
 
-super + shift + {g,c}
-    {usr/bin/google-chrome-stable --incognito, chromium}
+super + {c}
+    {chromium-browser}
 
 super + w
     firefox
 
 super + a
     pavucontrol
+
+super + e
+    emacsclient -c -a 'emacs'
 
 control + ntilde
     copyq show
@@ -45,3 +48,6 @@ XF86MonBrightness{Down,Up}
 
 Print
     bash ~/repos/scripts/activess.new.sh
+
+super + Next
+    kb-toggle
