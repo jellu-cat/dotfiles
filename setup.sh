@@ -20,6 +20,7 @@ ln -s $PWD/sxhkd $CONFIG
 ln -s $PWD/gtk-3.0 $CONFIG
 ln -s $PWD/lf $CONFIG
 ln -s $PWD/xplr $CONFIG
+ln -s $PWD/polybar/ $CONFIG
 
 ln -s $PWD/bash/.bash* $HOME
 ln -s $PWD/Xmodmap/.* $HOME
