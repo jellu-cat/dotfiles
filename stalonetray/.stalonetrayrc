@@ -9,3 +9,4 @@ icon_gravity    N
 window_strut    none
 window_layer    top
 sticky          true
+kludges         force_icons_size
