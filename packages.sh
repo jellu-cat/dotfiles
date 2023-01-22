@@ -55,3 +55,5 @@ sudo dnf install firefox \
     ncurses-devel \
     figlet \
     qt5-qtbase-devel qt5-qtbase-static qt5-qt3d-devel harfbuzz-devel \ # sioyek
+    libXtst-devel \
+    polybar \
