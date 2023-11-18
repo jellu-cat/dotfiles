@@ -1,3 +1,4 @@
+#
 # .bashrc
 # ~/.bashrc: executed by bash(1) for non-login shells.
 
@@ -92,6 +93,7 @@ echo $PATH | grep -Eq "(^|:)/sbin(:|)"     || PATH=$PATH:/sbin
 echo $PATH | grep -Eq "(^|:)/usr/sbin(:|)" || PATH=$PATH:/usr/sbin
 
 export PATH="$HOME/.cargo/bin:$PATH"
+export CDPATH="$HOME/itq/quinto/:$HOME/.wine/drive_c/$CDPATH"
 
 eval "$(starship init bash)"
 
