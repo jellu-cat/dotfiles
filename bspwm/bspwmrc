@@ -19,6 +19,8 @@ bspc rule -a copyq state=floating \
 bspc rule -a Zathura state=tiled \
     desktop='^1'
 bspc rule -a Emacs state=tiled
+bspc rule -a Eclipse state=tiled;
 
-bash autostart
+autostart
+
 pgrep bspswallow || bspswallow &
