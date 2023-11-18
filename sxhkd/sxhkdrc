@@ -15,17 +15,8 @@ control + Tab
 # Launch Applications #
 #######################
 
-super + {c}
-    {chromium-browser}
-
-super + w
-    firefox
-
-super + a
-    pavucontrol
-
-super + e
-    emacsclient -c -a 'emacs'
+super + {w, c, a, e, apostrophe}
+    {firefox, chromium-browser, pavucontrol, emacsclient -c -a 'emacs', thunar}
 
 control + ntilde
     copyq show
