@@ -97,6 +97,13 @@ export CDPATH="$HOME/itq/quinto/:$HOME/.wine/drive_c/$CDPATH"
 
 eval "$(starship init bash)"
 
+if [[ $- == *i* ]]
+then
+    bind '"\e[A": history-search-backward'
+    bind '"\e[B": history-search-forward'
+fi
+
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/jellu/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
