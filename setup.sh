@@ -20,6 +20,7 @@ ln -s $PWD/bash/.bash* $HOME
 ln -s $PWD/Xmodmap/.* $HOME
 ln -s $PWD/xinit/.* $HOME
 ln -s $PWD/dirs/* $CONFIG
+ln -s $PWD/apps/* $HOME/.local/share/applications
 
 ln -s $PWD/stalonetray/.stalonetrayrc $HOME
 ln -s $PWD/starship/starship.toml $CONFIG
